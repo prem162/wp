@@ -1,2 +1,2 @@
 # wp
-test of wordpress  development
+Wordopress plugin development
